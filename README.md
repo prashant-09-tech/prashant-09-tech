@@ -28,10 +28,10 @@
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                                                                             │
-│   Role      Senior Systems Software Engineer                                │
-│   Company   Innefu Labs Pvt. Ltd. — New Delhi, India                       │
-│   Focus     Agentic AI · C++ Systems · DFIR · Forensic Datasets            │
-│   Stack     C++ · Python · TensorFlow · Win32/NTAPI · Qt5 · Volatility3    │
+│   Role      Software Engineer                                               │
+│   Company   Innefu Labs Pvt. Ltd. — New Delhi, India                        │
+│   Focus     Agentic AI · C++ Systems · DFIR · Forensic Datasets             │
+│   Stack     C++ · Python · TensorFlow · Win32/NTAPI · Qt5 · Volatility3     │
 │   Domain    National Security · Law Enforcement · Threat Intelligence       │
 │                                                                             │
 │   ▸ 4+ years building mission-critical production systems                   │
