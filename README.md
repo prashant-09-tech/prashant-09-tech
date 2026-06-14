@@ -34,7 +34,7 @@
 ```yaml
 identity:
   name:     Prashant Rai
-  role:     Senior Systems Software Engineer
+  role:     Software Engineer
   company:  Innefu Labs Pvt. Ltd.
   location: Gurugram, India 🇮🇳
   exp:      4+ years production engineering
