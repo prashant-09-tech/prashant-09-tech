@@ -371,30 +371,59 @@ Education
 
 <table>
 <tr>
-<td align="center" width="200">
 
-![Cyber Triage](https://img.shields.io/badge/CYBER%20TRIAGE-0a0e1a?style=for-the-badge&logo=shield&logoColor=00C9FF)
-<br/>
-<sub><b>Intro to DFIR: The Divide and Conquer Process</b></sub>
-<br/>
-<sub>Sleuth Kit Labs · Brian Carrier · 2025</sub>
-<br/>
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/IIIT%20BANGALORE-003087?style=for-the-badge&logo=academia&logoColor=white"/><br/>
+<b>Advanced Certificate in Data Science</b><br/>
+<sub>Business Intelligence & Data Analytics</sub><br/>
+<sub>📅 February 18, 2025</sub><br/>
+<sub>✅ Degree-level · Deemed University</sub>
+</td>
+
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/MICROSOFT-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/><br/>
+<b>SOAR: AI to be Aware</b><br/>
+<sub>Skill Competency · NCVET Recognised</sub><br/>
+<sub>📅 June 09, 2025 · 20 Hours · Online</sub><br/>
+<sub>✅ Skill India · NSQF Level 2</sub>
+</td>
+
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/TECH%20MAHINDRA-E4002B?style=for-the-badge&logo=mahindra&logoColor=white"/><br/>
+<b>Cybersecurity</b><br/>
+<sub>Skill India Digital Hub · NSDC</sub><br/>
+<sub>📅 August 19, 2025 · 10 Hours</sub><br/>
+<sub>✅ Certificate of Participation</sub>
+</td>
+
+</tr>
+<tr><td colspan="3"><br/></td></tr>
+<tr>
+
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/CYBER%20TRIAGE-0a0e1a?style=for-the-badge&logo=shield&logoColor=00C9FF"/><br/>
+<b>Intro to DFIR: Divide & Conquer</b><br/>
+<sub>Sleuth Kit Labs · Brian Carrier</sub><br/>
+<sub>📅 2025 · 3 Hours</sub><br/>
 <sub>✅ Verified Certificate</sub>
-
 </td>
-<td width="10"></td>
-<td valign="top">
 
-```
-▸ Advanced Certificate in Data Science     IIIT Bangalore
-▸ Machine Learning with Python             CETPA  
-▸ Windows Internals                        Specialized Training
-▸ Digital Forensics & Incident Response    Specialized Training
-▸ Multithreading, Concurrency & Systems    Specialized Training
-▸ Intro to DFIR: Divide & Conquer          Cyber Triage · Sleuth Kit Labs
-```
-
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/CETPA-FF6B35?style=for-the-badge&logo=bookstack&logoColor=white"/><br/>
+<b>Machine Learning with Python</b><br/>
+<sub>Supervised & Unsupervised Learning</sub><br/>
+<sub>📅 Certified Professional</sub><br/>
+<sub>✅ Verified Certificate</sub>
 </td>
+
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/SPECIALIZED-6A0DAD?style=for-the-badge&logo=windows&logoColor=white"/><br/>
+<b>Windows Internals · DFIR · Systems</b><br/>
+<sub>Multithreading · Concurrency</sub><br/>
+<sub>Systems Programming</sub><br/>
+<sub>✅ Specialized Training Programs</sub>
+</td>
+
 </tr>
 </table>
 
