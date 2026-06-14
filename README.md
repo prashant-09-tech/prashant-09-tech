@@ -147,8 +147,6 @@ Raw System Telemetry
 ![Sigma Rules](https://img.shields.io/badge/Sigma%20Rules-FF8C00?style=for-the-badge)
 ![DFIR](https://img.shields.io/badge/DFIR-00C853?style=for-the-badge)
 ![NTFS Analysis](https://img.shields.io/badge/NTFS%20Forensics-607D8B?style=for-the-badge)
-![Osquery](https://img.shields.io/badge/Memory%20Forensics-DC143C?style=for-the-badge)
-
 </div>
 
 ---
