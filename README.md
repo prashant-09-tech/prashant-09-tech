@@ -23,24 +23,68 @@
 
 ---
 
-## `Prashant's -- summary`
+## `$ ./prashant --profile`
 
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```yaml
+identity:
+  name:     Prashant Rai
+  role:     Senior Systems Software Engineer
+  company:  Innefu Labs Pvt. Ltd.
+  location: Gurugram, India 🇮🇳
+  exp:      4+ years production engineering
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   Role      Software Engineer                                               │
-│   Company   Innefu Labs Pvt. Ltd. — New Delhi, India                        │
-│   Focus     Agentic AI · C++ Systems · DFIR · Forensic Datasets             │
-│   Stack     C++ · Python · TensorFlow · Win32/NTAPI · Qt5 · Volatility3     │
-│   Domain    National Security · Law Enforcement · Threat Intelligence       │
-│                                                                             │
-│   ▸ 4+ years building mission-critical production systems                   │
-│   ▸ Architected DFIR platforms deployed at national-security level          │
-│   ▸ Built agentic AI pipelines with autonomous investigation logic          │
-│   ▸ Engineered forensic datasets driving 94% zero-day detection             │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+
+</td>
+<td width="50%" valign="top">
+
+```yaml
+domains:
+  primary:
+    - Agentic AI & LLM Orchestration
+    - C++ Systems · Win32 · NTAPI
+    - Forensic Dataset Engineering
+  secondary:
+    - DFIR · Memory Forensics
+    - Real-Time Distributed Systems
 ```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+```yaml
+impact_metrics:
+  zero_day_accuracy:    "94%"
+  triage_time_saved:    "70%"
+  events_per_day:       "100,000+"
+  acquisition_speedup:  "60%"
+  overhead_reduction:   "40%"
+```
+
+</td>
+<td width="50%" valign="top">
+
+```yaml
+highlights:
+  - National-security-grade platforms
+  - Agentic AI autonomous pipelines
+  - Kernel-level memory acquisition
+  - Forensic datasets → ML at scale
+  - Production · Mission-Critical
+```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -144,6 +188,7 @@ Raw System Telemetry
 
 ![Memory Forensics](https://img.shields.io/badge/Memory%20Forensics-DC143C?style=for-the-badge)
 ![Volatility3](https://img.shields.io/badge/Volatility3-1C1C2E?style=for-the-badge)
+![Osquery](https://img.shields.io/badge/Osquery-2E86AB?style=for-the-badge&logo=osquery&logoColor=white)
 ![Sigma Rules](https://img.shields.io/badge/Sigma%20Rules-FF8C00?style=for-the-badge)
 ![DFIR](https://img.shields.io/badge/DFIR-00C853?style=for-the-badge)
 ![NTFS Analysis](https://img.shields.io/badge/NTFS%20Forensics-607D8B?style=for-the-badge)
@@ -322,13 +367,38 @@ Education
 
 ## 🎓 Certifications
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="200">
+
+![Cyber Triage](https://img.shields.io/badge/CYBER%20TRIAGE-0a0e1a?style=for-the-badge&logo=shield&logoColor=00C9FF)
+<br/>
+<sub><b>Intro to DFIR: The Divide and Conquer Process</b></sub>
+<br/>
+<sub>Sleuth Kit Labs · Brian Carrier · 2025</sub>
+<br/>
+<sub>✅ Verified Certificate</sub>
+
+</td>
+<td width="10"></td>
+<td valign="top">
+
 ```
-▸ Advanced Certificate in Data Science        IIIT Bangalore
-▸ Machine Learning with Python                CETPA
-▸ Windows Internals                           Specialized Training
-▸ Digital Forensics & Incident Response       Specialized Training
-▸ Multithreading, Concurrency & Systems       Specialized Training
+▸ Advanced Certificate in Data Science     IIIT Bangalore
+▸ Machine Learning with Python             CETPA  
+▸ Windows Internals                        Specialized Training
+▸ Digital Forensics & Incident Response    Specialized Training
+▸ Multithreading, Concurrency & Systems    Specialized Training
+▸ Intro to DFIR: Divide & Conquer          Cyber Triage · Sleuth Kit Labs
 ```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
