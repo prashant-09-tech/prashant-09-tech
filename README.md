@@ -1,83 +1,66 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,30:0d1b3e,60:1a1a4e,100:0a192f&height=250&section=header&text=Prashant%20Rai&fontSize=72&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=Systems%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20Python&descSize=18&descColor=8b949e&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,30:0a1628,60:0d1f3c,100:020818&height=260&section=header&text=Prashant%20Rai&fontSize=80&fontColor=e6edf3&animation=fadeIn&fontAlignY=40&stroke=1f6feb&strokeWidth=1&desc=Systems%20Engineer%20%7C%20Agentic%20AI%20%7C%20C%2B%2B%20%7C%20Cybersecurity&descSize=19&descColor=7d8590&descAlignY=60" />
 
-</div>
+<br/>
 
-<div align="center">
+<a href="https://linkedin.com/in/prashant-rai0203"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" height="24"/></a>&nbsp;
+<a href="mailto:prashantkrai765@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="24"/></a>&nbsp;
+<a href="https://github.com/prashant-09-tech"><img src="https://img.shields.io/badge/GitHub-e6edf3?style=flat-square&logo=github&logoColor=0d1117" height="24"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=prashant-09-tech&style=flat-square&color=1f6feb&label=visitors" height="24"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Architecting+Agentic+AI+systems+that+reason%2C+plan+%26+act+autonomously;Engineering+forensic+datasets+powering+94%25-accurate+threat+detection;High-performance+C%2B%2B+%7C+Windows+Internals+%7C+NTAPI+%7C+Low-latency+systems;Memory+forensics+%7C+DFIR+%7C+National-security-grade+platforms;100%2C000%2B+forensic+events%2Fday+%E2%80%94+zero-day+detection+at+machine+speed" />
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=Building+agentic+AI+systems+that+reason%2C+plan+%26+act+autonomously;C%2B%2B+systems+engineer+%E2%80%94+Win32+%7C+NTAPI+%7C+kernel-level+forensics;Forensic+dataset+pipelines+%E2%86%92+94%25+zero-day+detection+accuracy;VAJRA+v2%3A+Claude+%2B+MCP+%2B+NATS+%2B+C%2B%2B+agent+%2B+osquery+on+Windows;4%2B+years+building+mission-critical+production+systems" />
 
 </div>
 
 <br/>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-prashant--rai0203-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prashant-rai0203)&nbsp;
-[![Email](https://img.shields.io/badge/Email-prashantkrai765%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prashantkrai765@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-prashant--09--tech-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prashant-09-tech)&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=prashant-09-tech&style=flat-square&color=58a6ff&label=Profile+Views)
-
-</div>
-
 ---
 
-## `$ ./prashant --profile`
+## `$ cat prashant.yaml`
 
 <div align="center">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%" valign="top">
 
 ```yaml
-identity:
-  name:     Prashant Rai
-  role:     Software Engineer
-  company:  Innefu Labs Pvt. Ltd.
-  location: Gurugram, India 🇮🇳
-  exp:      4+ years production engineering
+engineer:
+  name:       Prashant Rai
+  role:       Software Engineer
+  company:    Innefu Labs Pvt. Ltd.
+  location:   Gurugram, India
+  experience: 4+ years
+
+core_domains:
+  - Agentic AI & LLM Orchestration
+  - High-Performance C++ Systems
+  - Digital Forensics & DFIR
+  - Forensic Dataset Engineering
+  - Memory Forensics & Windows Internals
+  - Real-Time Distributed Systems
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="4%"></td>
+<td width="46%" valign="top">
 
 ```yaml
-domains:
-  primary:
-    - Agentic AI & LLM Orchestration
-    - C++ Systems · Win32 · NTAPI
-    - Forensic Dataset Engineering
-  secondary:
-    - DFIR · Memory Forensics
-    - Real-Time Distributed Systems
-```
+production_impact:
+  zero_day_detection:    94%   # ensemble ML accuracy
+  analyst_time_saved:    70%   # triage reduction
+  forensic_events_day:   100K+ # pipeline throughput
+  acquisition_speedup:   60%   # vs full-dump baseline
+  endpoint_overhead_cut: 40%   # multithreaded engines
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-```yaml
-impact_metrics:
-  zero_day_accuracy:    "94%"
-  triage_time_saved:    "70%"
-  events_per_day:       "100,000+"
-  acquisition_speedup:  "60%"
-  overhead_reduction:   "40%"
-```
-
-</td>
-<td width="50%" valign="top">
-
-```yaml
-highlights:
-  - National-security-grade platforms
-  - Agentic AI autonomous pipelines
-  - Kernel-level memory acquisition
-  - Forensic datasets → ML at scale
-  - Production · Mission-Critical
+stack_highlights:
+  ai:       Claude · MCP · LLM Orchestration
+  systems:  C++ · Win32 · NTAPI · Volatility3
+  data:     TensorFlow · Scikit-learn · Osquery
+  infra:    NATS · Python · Qt5 · FFmpeg
 ```
 
 </td>
@@ -88,394 +71,351 @@ highlights:
 
 ---
 
-## 🤖 Agentic AI & Autonomous Systems
-
-> *My primary research and engineering focus: building AI systems that don't just respond — they reason, plan, and act.*
-
-**What I build:**
-- Autonomous investigation agents that self-direct forensic collection, decide what to analyze next, and synthesize findings without human prompting
-- LLM orchestration layers with tool-use, memory, and multi-step planning — integrated into production DFIR workflows
-- Agent pipelines that ingest 100K+ forensic signals/day, reason over them, and surface prioritized threat intelligence
-
-**Why it matters:**
-Traditional DFIR requires a senior analyst to manually chain together evidence. My agentic systems replace that chain with an autonomous reasoning loop — cutting triage time by **70%** while improving detection accuracy to **94%**.
-
-```python
-# The architecture I'm building
-class ForensicAgent:
-    def __init__(self):
-        self.memory    = VectorStore(forensic_artifacts)
-        self.tools     = [DiskAcquisition, MemoryCapture, 
-                          NetworkTracer, RegistryParser, MFTAnalyzer]
-        self.reasoning = LLM(model="chain-of-thought", domain="DFIR")
-    
-    def investigate(self, endpoint: str) -> ThreatReport:
-        plan     = self.reasoning.plan(goal="identify threat on " + endpoint)
-        evidence = self.execute_tools(plan.steps)     # autonomous tool use
-        findings = self.reasoning.synthesize(evidence) # cross-artifact reasoning
-        return ThreatReport(findings, confidence=0.94)
-```
-
----
-
-## 📊 Forensic Dataset Engineering
-
-> *Most ML systems fail in cybersecurity because the data is wrong. I fix the data.*
-
-**Pipeline Architecture:**
-
-```
-Raw System Telemetry
-        │
-        ▼
-┌──────────────────┐    ┌──────────────────┐    ┌──────────────────┐
-│  Process Events  │    │  Network Flows   │    │  Registry Deltas │
-│  (100K+/day)     │    │  TCP/UDP/DNS     │    │  HKLM/HKCU keys  │
-└────────┬─────────┘    └────────┬─────────┘    └────────┬─────────┘
-         └─────────────────┬──────────────────────────────┘
-                           ▼
-              ┌────────────────────────┐
-              │  Feature Extraction    │
-              │  MACB timestamps       │
-              │  Process ancestry      │
-              │  Behavioral sequences  │
-              └────────────┬───────────┘
-                           ▼
-              ┌────────────────────────┐
-              │  Ensemble ML Models    │
-              │  Random Forest         │
-              │  Gradient Boosting     │
-              │  Isolation Forest      │
-              └────────────┬───────────┘
-                           ▼
-              ┌────────────────────────┐
-              │  94% Zero-Day Accuracy │
-              │  SHAP Explainability   │
-              │  Real-time Scoring     │
-              └────────────────────────┘
-```
-
----
-
-## ⚡ Technical Stack
+## ◈ Technology
 
 <div align="center">
 
-**Core Languages**
+<table border="0">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="44"/><br/><sub>C++</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="44"/><br/><sub>Python</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="44"/><br/><sub>TensorFlow</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=qt" width="44"/><br/><sub>Qt5</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=django" width="44"/><br/><sub>Django</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="44"/><br/><sub>Linux</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="44"/><br/><sub>Git</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=visualstudio" width="44"/><br/><sub>VS</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="44"/><br/><sub>MySQL</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="44"/><br/><sub>SQLite</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cs" width="44"/><br/><sub>C#</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="44"/><br/><sub>.NET</sub></td>
+</tr>
+</table>
 
-![C++](https://img.shields.io/badge/C%2B%2B-Expert-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-Proficient-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Advanced-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<br/>
 
-**Agentic AI · ML · Data**
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Win32/NTAPI](https://img.shields.io/badge/Win32%20%2F%20NTAPI-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Windows Internals](https://img.shields.io/badge/Windows%20Internals-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-1f6feb?style=flat-square)
+![LLM Orchestration](https://img.shields.io/badge/LLM%20Orchestration-6e40c9?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-e6edf3?style=flat-square&logoColor=black)
+![NATS](https://img.shields.io/badge/NATS-27aae1?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-e63946?style=flat-square)
+![Volatility3](https://img.shields.io/badge/Volatility3-161b22?style=flat-square&logoColor=white)
+![Osquery](https://img.shields.io/badge/Osquery-2E86AB?style=flat-square)
+![Sigma Rules](https://img.shields.io/badge/Sigma%20Rules-FF8C00?style=flat-square)
+![Memory Forensics](https://img.shields.io/badge/Memory%20Forensics-dc143c?style=flat-square)
+![NTFS Forensics](https://img.shields.io/badge/NTFS%20Forensics-607D8B?style=flat-square)
+![DFIR](https://img.shields.io/badge/DFIR-238636?style=flat-square)
+![Multithreading](https://img.shields.io/badge/Multithreading-6A0DAD?style=flat-square)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 
-![LLM Orchestration](https://img.shields.io/badge/LLM%20Orchestration-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Agentic Pipelines](https://img.shields.io/badge/Agentic%20AI%20Pipelines-0066FF?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP%20Explainability-E63946?style=for-the-badge)
-
-**Systems · Low-Level**
-
-![Windows Internals](https://img.shields.io/badge/Windows%20Internals-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Win32 API](https://img.shields.io/badge/Win32%2FNTAPI-0078D4?style=for-the-badge&logo=windows)
-![Multithreading](https://img.shields.io/badge/Multithreading%20%26%20Concurrency-6A0DAD?style=for-the-badge)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-![Qt5](https://img.shields.io/badge/Qt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-
-**Cybersecurity · DFIR**
-
-![Memory Forensics](https://img.shields.io/badge/Memory%20Forensics-DC143C?style=for-the-badge)
-![Volatility3](https://img.shields.io/badge/Volatility3-1C1C2E?style=for-the-badge)
-![Osquery](https://img.shields.io/badge/Osquery-2E86AB?style=for-the-badge&logo=osquery&logoColor=white)
-![Sigma Rules](https://img.shields.io/badge/Sigma%20Rules-FF8C00?style=for-the-badge)
-![DFIR](https://img.shields.io/badge/DFIR-00C853?style=for-the-badge)
-![NTFS Analysis](https://img.shields.io/badge/NTFS%20Forensics-607D8B?style=for-the-badge)
 </div>
 
 ---
 
-## 🔬 Flagship Projects
+## ◈ Engineering Focus
 
-### 1 · VAJRA v2 — Agentic DFIR Endpoint Investigation Platform
-*AI-orchestrated forensic investigation via natural language — Claude + MCP + NATS + C++ agent*
-
-VAJRA v2 is a full-stack agentic DFIR platform where an analyst types an investigation question in plain English and gets a forensic answer — without touching the endpoint manually. Claude acts as the reasoning engine: it decides what evidence is needed, invokes MCP tools, which dispatch commands over NATS to a C++ agent running osquery on the target Windows machine.
+<div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                        VAJRA v2 — Architecture                         │
-├─────────────────────────────────────────────────────────────────────────┤
-│                                                                         │
-│   Analyst                                                               │
-│   "Which processes made external connections in the last 1 hour?"       │
-│        │                                                                │
-│        ▼                                                                │
-│   Web UI  ──────────────►  Python Orchestrator                         │
-│                                    │                                    │
-│                                    ▼                                    │
-│                            Claude (AI Reasoning)                        │
-│                            decides: need network                        │
-│                            + process forensics                          │
-│                                    │                                    │
-│                                    ▼                                    │
-│                            MCP Server (Tool Layer)                      │
-│                            selects & invokes tools                      │
-│                                    │                                    │
-│                                    ▼                                    │
-│                            NATS Message Bus ◄──── pub/sub transport     │
-│                                    │                                    │
-│                                    ▼                                    │
-│                            C++ Agent (Windows Endpoint)                 │
-│                            executes osquery / health                    │
-│                            commands on live system                      │
-│                                    │                                    │
-│                                    ▼                                    │
-│                            Result → Claude → UI                         │
-│                            structured DFIR answer                       │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
+ ┌──────────────────────────────────────────────────────────────────────┐
+ │                                                                      │
+ │   AGENTIC AI          Systems that reason, plan & act autonomously   │
+ │                       LLM orchestration · MCP · tool-use pipelines   │
+ │                                                                      │
+ │   C++ SYSTEMS         Win32 / NTAPI · kernel-level acquisition       │
+ │                       Multithreading · low-latency · high-throughput │
+ │                                                                      │
+ │   DATASET ENGINEERING Forensic pipelines processing 100K+ events/day │
+ │                       Feature extraction · labeling · ML-ready data  │
+ │                                                                      │
+ │   DFIR                Memory · disk · network · registry forensics   │
+ │                       Artifact correlation · timeline reconstruction  │
+ │                                                                      │
+ │   ML THREAT DETECTION Ensemble models · anomaly detection · SHAP     │
+ │                       94% zero-day accuracy · real-time scoring      │
+ │                                                                      │
+ └──────────────────────────────────────────────────────────────────────┘
 ```
 
-| Layer | Technology | Role |
-|:---|:---|:---|
-| **Frontend** | Web UI | Analyst asks investigation questions in natural language |
-| **Orchestrator** | Python | Receives requests, manages session, routes to Claude |
-| **AI Reasoning** | Claude (LLM) | Decides what evidence is needed, selects tools, synthesizes answer |
-| **Tool Layer** | MCP Server | Executes tool calls, enforces forensic workflows |
-| **Transport** | NATS | High-speed pub/sub message bus between server and agent |
-| **Endpoint Agent** | C++ | Executes osquery & health commands on live Windows systems |
-| **Query Engine** | Osquery | SQL-based live system telemetry — processes, network, registry |
-
-**Stack:** `C++` `Python` `Claude AI` `MCP` `NATS` `Osquery` `Web UI` `Windows Internals` `Agentic AI`
+</div>
 
 ---
 
-### 2 · RapiDFIR — Agentic DFIR Platform
-*Enterprise forensic investigation platform with autonomous AI-driven workflows*
+## ◈ Projects
 
-Built at **Innefu Labs** for national security and law enforcement clients. RapiDFIR replaces the manual chain of analyst judgment with an agentic AI system that autonomously directs evidence collection, correlates artifacts across systems, and generates prioritized threat intelligence.
+### VAJRA v2 &nbsp;·&nbsp; Agentic DFIR Endpoint Investigation Platform
 
-| Capability | Detail |
-|:---|:---|
-| **Agentic Core** | Self-directing investigation agents that plan, collect, and synthesize |
-| **Acquisition** | Remote endpoint: disk · memory · registry · processes · network state |
-| **Performance** | 40% endpoint overhead reduction via optimized multithreaded engines |
-| **Evidence** | RAM dumps · E01 · DD — full forensic format support |
-| **Correlation** | JSON ingestion pipelines for cross-system artifact linkage |
+> Natural language → forensic answer. Claude reasons over questions, MCP dispatches tools, NATS delivers commands to a C++ agent running osquery on live Windows endpoints — no manual evidence collection, no analyst toil.
+
+<div align="center">
+
+```
+  Analyst Question (Web UI)
+           │
+           ▼
+  Python Orchestrator
+           │
+           ▼
+  ┌─────────────────────┐
+  │   Claude (LLM)      │  ← decides what evidence is needed
+  │   Chain-of-thought  │  ← selects appropriate tools
+  │   Reasoning engine  │  ← synthesizes final DFIR answer
+  └────────┬────────────┘
+           │
+           ▼
+  MCP Server  ←──────────── tool execution layer
+           │
+           ▼
+  NATS Message Bus  ←─────── high-speed pub/sub transport
+           │
+           ▼
+  C++ Agent (Windows Endpoint)
+  └── osquery SQL queries
+  └── system health checks
+  └── live artifact collection
+           │
+           ▼
+  Result → Claude → Structured DFIR Report
+```
+
+</div>
+
+| Layer | Tech | Responsibility |
+|:------|:-----|:---------------|
+| Reasoning | Claude LLM | Decides evidence needed · selects tools · synthesizes answer |
+| Orchestration | Python | Session management · request routing · response assembly |
+| Tool Layer | MCP Server | Forensic tool dispatch · workflow enforcement |
+| Transport | NATS | High-speed pub/sub between server and endpoint |
+| Endpoint Agent | C++ | Executes osquery + health commands on live Windows systems |
+| Query Engine | Osquery | SQL-based telemetry: processes · network · registry · files |
+
+`C++` `Python` `Claude AI` `MCP` `NATS` `Osquery` `Windows Internals` `Agentic AI`
+
+---
+
+### RapiDFIR &nbsp;·&nbsp; Enterprise DFIR Platform
+
+> Agentic AI platform for large-scale digital forensic investigations. Autonomous agents direct evidence collection, correlate artifacts across endpoints, and surface prioritized threat intelligence.
+
+```
+Remote Endpoint Acquisition (C++ · Win32/NTAPI)
+disk · memory · registry · processes · network
+          ↓
+Agentic AI Core — autonomous planning & reasoning
+          ↓
+JSON Correlation Engine — cross-system artifact linkage
+          ↓
+Structured Intelligence Output
+```
+
+- **40%** endpoint overhead reduction via optimized multithreaded engines
+- Full evidence format support: RAM dumps · E01 · raw disk images (DD)
+- Designed and deployed at national-security-grade operational scale
 
 `C++` `Python` `Agentic AI` `Win32/NTAPI` `Windows Internals` `JSON Pipelines`
 
 ---
 
-### 3 · Threat Intelligence Engine — ML at Forensic Scale
-*Forensic dataset pipeline + ensemble ML achieving 94% zero-day detection*
+### Threat Intelligence Engine &nbsp;·&nbsp; Forensic ML Pipeline
 
-Engineered end-to-end: from raw telemetry ingestion to model training to real-time scoring. The forensic dataset pipeline is the core innovation — processing 100K+ behavioral events daily from process execution, network connections, and registry mutations into labeled training data that powers detection models far beyond signature-based tools.
+> End-to-end forensic dataset engineering → ensemble ML → 94% zero-day detection with full SHAP explainability.
 
-| Metric | Result |
-|:---|:---|
-| **Zero-day detection accuracy** | **94%** (ensemble: RF + Gradient Boosting) |
-| **Analyst triage time reduction** | **70%** |
-| **Events processed daily** | **100,000+** |
-| **Anomaly detection** | Isolation Forests for privilege escalations & process injection |
-| **Explainability** | SHAP values — every alert is interpretable by analysts |
+```
+Raw Telemetry (100K+ events/day)
+process execution · network flows · registry mutations
+          ↓
+Feature Extraction
+MACB timestamps · process ancestry · behavioral sequences
+          ↓
+Ensemble ML
+Random Forest + Gradient Boosting + Isolation Forests
+          ↓
+94% zero-day accuracy · 70% triage reduction · SHAP explainability
+```
 
 `Python` `TensorFlow` `Scikit-learn` `SHAP` `Isolation Forests` `Dataset Engineering`
 
 ---
 
-### 4 · Live RAM Acquisition & Memory Forensics Suite
-*Kernel-level memory capture — 60% faster than full-dump methods*
+### Live RAM Forensics Suite &nbsp;·&nbsp; Kernel Memory Acquisition
 
-A lightweight C++ tool that acquires volatile memory without generating crash dumps, preserving system state for forensic analysis. Integrated with Volatility3 for deep artifact extraction — detecting fileless malware, injected code, and hidden processes that leave zero disk traces.
+> Lightweight C++ memory acquisition — 60% faster than full-dump. Detects fileless malware, injected code, and hidden processes with zero disk footprint.
 
-`C++` `Windows Internals` `NTAPI` `Volatility3` `Winpmem` `Memory Analysis`
-
----
-
-### 5 · Network Tracer & Process Correlation Engine
-*Real-time traffic capture mapped to originating system processes — C2 detection*
-
-```
-Intercepted Packet → WinDivert → PID/PPID Lookup → Process Tree → Threat Score
-     < 0.1% packet loss under sustained production-volume traffic
-```
-
-`C++` `WinDivert` `Win32 API` `Python Qt5` `Network Observability`
+`C++` `NTAPI` `Windows Internals` `Volatility3` `Winpmem`
 
 ---
 
-### 6 · Cipher Sentinel Imager
-*Forensic acquisition with cryptographic chain-of-custody for legal proceedings*
+### Network Tracer &amp; Process Correlation Engine
 
-Multi-format disk imaging (E01/RAW/DD), block-level cloning, RAM capture, SHA-256/MD5/SHA-1 hash verification — remote NAS/SAN acquisition for enterprise-scale investigations.
+> Real-time packet interception via WinDivert, mapped to originating PID/PPID. `<0.1% packet loss` under sustained high-volume traffic. C2 communication detection via anomalous outbound pattern analysis.
+
+`C++` `WinDivert` `Win32 API` `Python Qt5`
+
+---
+
+### Cipher Sentinel Imager &nbsp;·&nbsp; Forensic Acquisition
+
+> Multi-format disk imaging (E01/RAW/DD), RAM capture, SHA-256/MD5/SHA-1 verification, remote NAS/SAN acquisition. Cryptographic chain-of-custody for legal admissibility.
 
 `Python` `Qt5` `Cryptography` `Osfmount`
 
 ---
 
-### 6 · Sigma-Based CDR/IPDR Intelligence Platform
-*Large-scale communication data analysis for intelligence operations*
+### Sigma CDR/IPDR Intelligence Platform
 
-Sigma rule-driven detection across Call Detail Records and IP Detail Records at scale. Cross-correlation of calls, messages, and IP sessions. Interactive timeline reconstruction and network graph visualization for investigative teams.
+> Sigma rule-driven detection across large-scale Call Detail Records and IP Detail Records. Cross-correlation of calls, messages, and IP sessions with interactive timeline and network graph visualization.
 
-`Python` `PySide6` `Sigma Rules` `Large-Scale Data` `Threat Intelligence`
-
----
-
-### 7 · NTFS MFT Forensic Parser
-*Deep file system artifact analysis — deleted file recovery & timeline reconstruction*
-
-Automated MFT parsing, MACB timestamp extraction, deleted file detection via IsInUse flag, structured JSON output and HTML reports for forensic workflows.
-
-`C++` `MFTECmd` `NTFS` `JSON` `Timeline Forensics`
+`Python` `PySide6` `Sigma Rules` `Data Correlation`
 
 ---
 
-### 8 · MultiViewer — Broadcast Monitoring Platform
-*Real-time multi-stream video system · < 50ms latency in production*
+### NTFS MFT Forensic Parser
 
-Simultaneous UDP/RTMP/TCP/HLS/SDI stream decoding. Multithreaded rendering pipeline with frame synchronization. Built for broadcast-grade reliability using FFmpeg and TSDuck.
+> Automated MFT parsing, deleted file recovery via IsInUse flag, MACB timestamp extraction, structured JSON output and HTML reporting for forensic workflows.
+
+`C++` `MFTECmd` `NTFS` `JSON`
+
+---
+
+### MultiViewer &nbsp;·&nbsp; Broadcast Monitoring Platform
+
+> Simultaneous UDP/RTMP/TCP/HLS/SDI stream decoding. Multithreaded rendering at `<50ms latency` in production. FFmpeg + TSDuck for decoding and transport stream analytics.
 
 `C++` `FFmpeg` `TSDuck` `MFC` `Win32 API`
 
 ---
 
-## 📈 GitHub Analytics
+## ◈ Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prashant-09-tech&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-09-tech&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prashant-09-tech&show_icons=true&hide_border=true&bg_color=010409&title_color=58a6ff&icon_color=1f6feb&text_color=7d8590&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-09-tech&layout=compact&langs_count=8&hide_border=true&bg_color=010409&title_color=58a6ff&text_color=7d8590" height="170"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
+<img src="https://streak-stats.demolab.com/?user=prashant-09-tech&hide_border=true&background=010409&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=7d8590&dates=7d8590&currStreakNum=e6edf3&sideNums=e6edf3&stroke=1f6feb" height="158"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=prashant-09-tech&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
+<br/><br/>
 
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prashant-09-tech&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&area_color=0d2137)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prashant-09-tech&bg_color=010409&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&area_color=0d1f3c" width="98%"/>
 
 </div>
 
 ---
 
-## 🏆 Recognition
+## ◈ Trophies
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=prashant-09-tech&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+<img src="https://github-profile-trophy.vercel.app/?username=prashant-09-tech&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## ◈ Contribution Snake
 
 <div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prashant-09-tech/prashant-09-tech/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prashant-09-tech/prashant-09-tech/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution-snake" src="https://raw.githubusercontent.com/prashant-09-tech/prashant-09-tech/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prashant-09-tech/prashant-09-tech/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prashant-09-tech/prashant-09-tech/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/prashant-09-tech/prashant-09-tech/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
-
 </div>
 
 ---
 
-## 💼 Experience
+## ◈ Experience
 
 ```
-Innefu Labs Pvt. Ltd.          Software Engineer          Nov 2024 → Present
+Innefu Labs Pvt. Ltd.                    Software Engineer       Nov 2024 → Present
 New Delhi, India
-  ├─ Architected RapiDFIR: enterprise DFIR platform for national security clients
-  ├─ Built agentic AI investigation pipelines with autonomous evidence collection
-  ├─ Engineered Win Internals-based parsers for volatile & persistent artifacts
+  ├─ Engineered VAJRA v2: agentic DFIR platform — Claude · MCP · NATS · C++ agent
+  ├─ Architected RapiDFIR: enterprise forensic platform at national-security scale
+  ├─ Built autonomous AI investigation pipelines with LLM-driven evidence collection
+  ├─ Developed Win32/NTAPI parsers for deep volatile & persistent artifact visibility
   ├─ Designed JSON ingestion pipelines for cross-system artifact correlation
-  └─ Optimized multithreaded engines → 40% endpoint overhead reduction
+  └─ Optimized multithreaded acquisition engines → 40% endpoint overhead reduction
 
-JTEKT Electronics India Pvt. Ltd.  Software Engineer      May 2024 → Jul 2024
+JTEKT Electronics India Pvt. Ltd.        Software Engineer       May 2024 → Jul 2024
 Gurugram, India
-  ├─ Built PLC design software: validation, diagnostics, configuration
-  └─ C++ · MFC · Win32 API · SQL-backed configuration systems
+  ├─ Engineered industrial PLC design software — configuration, validation, diagnostics
+  └─ C++ · MFC · Win32 API · SQL-backed systems for safety-critical manufacturing
 
-Planetcast Media Services Ltd.    Software Engineer        Aug 2021 → Dec 2023
+Planetcast Media Services Ltd.           Software Engineer       Aug 2021 → Dec 2023
 Noida, India
-  ├─ High-performance C++ & Python systems for broadcast automation
-  ├─ Multithreaded TCP/UDP frameworks for low-latency stream transport
-  ├─ Integrated FFmpeg · NDI SDK · TSDuck for stream analytics
-  └─ 25% backend throughput improvement via architecture refactoring
+  ├─ High-performance C++ & Python systems for broadcast automation at production scale
+  ├─ Multithreaded TCP/UDP frameworks for low-latency stream transport & monitoring
+  ├─ FFmpeg · NDI SDK · TSDuck integration for decoding and stream analytics
+  └─ 25% backend throughput improvement via concurrency tuning & architecture refactoring
 
 Education
-  └─ B.Tech Computer Science & Engineering — IMS Engineering College, 2021
+  └─ B.Tech — Computer Science & Engineering · IMS Engineering College · 2021
 ```
 
 ---
 
-## 🎓 Certifications
+## ◈ Certifications
 
 <div align="center">
 
-<table>
+<table border="0">
 <tr>
 
-<td align="center" width="220">
-<img src="https://img.shields.io/badge/IIIT%20BANGALORE-003087?style=for-the-badge&logo=academia&logoColor=white"/><br/>
-<b>Advanced Certificate in Data Science</b><br/>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/IIIT%20BANGALORE-003087?style=flat-square&logo=academia&logoColor=white"/><br/><br/>
+<b>Advanced Certificate</b><br/>
+<b>in Data Science</b><br/>
 <sub>Business Intelligence & Data Analytics</sub><br/>
-<sub>📅 February 18, 2025</sub><br/>
-<sub>✅ Degree-level · Deemed University</sub>
+<sub>February 18, 2025</sub>
 </td>
 
-<td align="center" width="220">
-<img src="https://img.shields.io/badge/MICROSOFT-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/><br/>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/MICROSOFT-0078D4?style=flat-square&logo=microsoft&logoColor=white"/><br/><br/>
 <b>SOAR: AI to be Aware</b><br/>
-<sub>Skill Competency · NCVET Recognised</sub><br/>
-<sub>📅 June 09, 2025 · 20 Hours · Online</sub><br/>
-<sub>✅ Skill India · NSQF Level 2</sub>
+<sub>Skill Competency · NCVET</sub><br/>
+<sub>Skill India · NSQF Level 2</sub><br/>
+<sub>June 09, 2025 · 20 hrs</sub>
 </td>
 
-<td align="center" width="220">
-<img src="https://img.shields.io/badge/TECH%20MAHINDRA-E4002B?style=for-the-badge&logo=mahindra&logoColor=white"/><br/>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/TECH%20MAHINDRA-E4002B?style=flat-square&logoColor=white"/><br/><br/>
 <b>Cybersecurity</b><br/>
-<sub>Skill India Digital Hub · NSDC</sub><br/>
-<sub>📅 August 19, 2025 · 10 Hours</sub><br/>
-<sub>✅ Certificate of Participation</sub>
+<sub>Skill India Digital Hub</sub><br/>
+<sub>NSDC · 10 hours</sub><br/>
+<sub>August 19, 2025</sub>
+</td>
+
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/CYBER%20TRIAGE-010409?style=flat-square&logoColor=58a6ff"/><br/><br/>
+<b>Intro to DFIR:</b><br/>
+<b>Divide & Conquer</b><br/>
+<sub>Sleuth Kit Labs · Brian Carrier</sub><br/>
+<sub>2025 · 3 hrs · Verified</sub>
 </td>
 
 </tr>
-<tr><td colspan="3"><br/></td></tr>
+<tr><td colspan="4" height="16"></td></tr>
 <tr>
 
-<td align="center" width="220">
-<img src="https://img.shields.io/badge/CYBER%20TRIAGE-0a0e1a?style=for-the-badge&logo=shield&logoColor=00C9FF"/><br/>
-<b>Intro to DFIR: Divide & Conquer</b><br/>
-<sub>Sleuth Kit Labs · Brian Carrier</sub><br/>
-<sub>📅 2025 · 3 Hours</sub><br/>
-<sub>✅ Verified Certificate</sub>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/CETPA-FF6B35?style=flat-square&logoColor=white"/><br/><br/>
+<b>Machine Learning</b><br/>
+<b>with Python</b><br/>
+<sub>Supervised & Unsupervised</sub><br/>
+<sub>Certified Professional</sub>
 </td>
 
-<td align="center" width="220">
-<img src="https://img.shields.io/badge/CETPA-FF6B35?style=for-the-badge&logo=bookstack&logoColor=white"/><br/>
-<b>Machine Learning with Python</b><br/>
-<sub>Supervised & Unsupervised Learning</sub><br/>
-<sub>📅 Certified Professional</sub><br/>
-<sub>✅ Verified Certificate</sub>
-</td>
-
-<td align="center" width="220">
-<img src="https://img.shields.io/badge/SPECIALIZED-6A0DAD?style=for-the-badge&logo=windows&logoColor=white"/><br/>
-<b>Windows Internals · DFIR · Systems</b><br/>
-<sub>Multithreading · Concurrency</sub><br/>
-<sub>Systems Programming</sub><br/>
-<sub>✅ Specialized Training Programs</sub>
+<td align="center" colspan="3" valign="middle">
+<img src="https://img.shields.io/badge/SPECIALIZED%20TRAINING-6A0DAD?style=flat-square&logoColor=white"/><br/><br/>
+<b>Windows Internals &nbsp;·&nbsp; Digital Forensics & Incident Response</b><br/>
+<b>Multithreading & Concurrency &nbsp;·&nbsp; Systems Programming</b>
 </td>
 
 </tr>
@@ -485,21 +425,19 @@ Education
 
 ---
 
-## 🔭 Active Research
+## ◈ Research
 
 ```python
-research = {
-    "agentic_ai"   : "LLM-powered agents with tool-use for autonomous forensic reasoning",
-    "datasets"     : "Curating large-scale labeled forensic datasets for zero-day ML",
-    "kernel"       : "Kernel-level memory analysis & anti-forensics detection techniques",
-    "explainability": "SHAP/LIME-based interpretable models for high-stakes security decisions"
+active_research = {
+    "agentic_systems" : "Multi-agent forensic frameworks with memory, planning & tool-use",
+    "dataset_curation": "Large-scale labeled forensic datasets for zero-day ML training",
+    "kernel_forensics" : "Kernel-mode memory analysis & anti-forensics detection",
+    "explainability"  : "SHAP/LIME interpretable threat models for high-stakes decisions",
 }
 ```
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0d1b3e,100:0a0e1a&height=130&section=footer&animation=fadeIn" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,50:0a1628,100:020818&height=120&section=footer&animation=fadeIn"/>
 </div>
