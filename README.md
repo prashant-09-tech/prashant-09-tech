@@ -198,7 +198,61 @@ Raw System Telemetry
 
 ## 🔬 Flagship Projects
 
-### 1 · RapiDFIR — Agentic DFIR Platform
+### 1 · VAJRA v2 — Agentic DFIR Endpoint Investigation Platform
+*AI-orchestrated forensic investigation via natural language — Claude + MCP + NATS + C++ agent*
+
+VAJRA v2 is a full-stack agentic DFIR platform where an analyst types an investigation question in plain English and gets a forensic answer — without touching the endpoint manually. Claude acts as the reasoning engine: it decides what evidence is needed, invokes MCP tools, which dispatch commands over NATS to a C++ agent running osquery on the target Windows machine.
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                        VAJRA v2 — Architecture                         │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                         │
+│   Analyst                                                               │
+│   "Which processes made external connections in the last 1 hour?"       │
+│        │                                                                │
+│        ▼                                                                │
+│   Web UI  ──────────────►  Python Orchestrator                         │
+│                                    │                                    │
+│                                    ▼                                    │
+│                            Claude (AI Reasoning)                        │
+│                            decides: need network                        │
+│                            + process forensics                          │
+│                                    │                                    │
+│                                    ▼                                    │
+│                            MCP Server (Tool Layer)                      │
+│                            selects & invokes tools                      │
+│                                    │                                    │
+│                                    ▼                                    │
+│                            NATS Message Bus ◄──── pub/sub transport     │
+│                                    │                                    │
+│                                    ▼                                    │
+│                            C++ Agent (Windows Endpoint)                 │
+│                            executes osquery / health                    │
+│                            commands on live system                      │
+│                                    │                                    │
+│                                    ▼                                    │
+│                            Result → Claude → UI                         │
+│                            structured DFIR answer                       │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+| Layer | Technology | Role |
+|:---|:---|:---|
+| **Frontend** | Web UI | Analyst asks investigation questions in natural language |
+| **Orchestrator** | Python | Receives requests, manages session, routes to Claude |
+| **AI Reasoning** | Claude (LLM) | Decides what evidence is needed, selects tools, synthesizes answer |
+| **Tool Layer** | MCP Server | Executes tool calls, enforces forensic workflows |
+| **Transport** | NATS | High-speed pub/sub message bus between server and agent |
+| **Endpoint Agent** | C++ | Executes osquery & health commands on live Windows systems |
+| **Query Engine** | Osquery | SQL-based live system telemetry — processes, network, registry |
+
+**Stack:** `C++` `Python` `Claude AI` `MCP` `NATS` `Osquery` `Web UI` `Windows Internals` `Agentic AI`
+
+---
+
+### 2 · RapiDFIR — Agentic DFIR Platform
 *Enterprise forensic investigation platform with autonomous AI-driven workflows*
 
 Built at **Innefu Labs** for national security and law enforcement clients. RapiDFIR replaces the manual chain of analyst judgment with an agentic AI system that autonomously directs evidence collection, correlates artifacts across systems, and generates prioritized threat intelligence.
@@ -215,7 +269,7 @@ Built at **Innefu Labs** for national security and law enforcement clients. Rapi
 
 ---
 
-### 2 · Threat Intelligence Engine — ML at Forensic Scale
+### 3 · Threat Intelligence Engine — ML at Forensic Scale
 *Forensic dataset pipeline + ensemble ML achieving 94% zero-day detection*
 
 Engineered end-to-end: from raw telemetry ingestion to model training to real-time scoring. The forensic dataset pipeline is the core innovation — processing 100K+ behavioral events daily from process execution, network connections, and registry mutations into labeled training data that powers detection models far beyond signature-based tools.
@@ -232,7 +286,7 @@ Engineered end-to-end: from raw telemetry ingestion to model training to real-ti
 
 ---
 
-### 3 · Live RAM Acquisition & Memory Forensics Suite
+### 4 · Live RAM Acquisition & Memory Forensics Suite
 *Kernel-level memory capture — 60% faster than full-dump methods*
 
 A lightweight C++ tool that acquires volatile memory without generating crash dumps, preserving system state for forensic analysis. Integrated with Volatility3 for deep artifact extraction — detecting fileless malware, injected code, and hidden processes that leave zero disk traces.
@@ -241,7 +295,7 @@ A lightweight C++ tool that acquires volatile memory without generating crash du
 
 ---
 
-### 4 · Network Tracer & Process Correlation Engine
+### 5 · Network Tracer & Process Correlation Engine
 *Real-time traffic capture mapped to originating system processes — C2 detection*
 
 ```
@@ -253,7 +307,7 @@ Intercepted Packet → WinDivert → PID/PPID Lookup → Process Tree → Threat
 
 ---
 
-### 5 · Cipher Sentinel Imager
+### 6 · Cipher Sentinel Imager
 *Forensic acquisition with cryptographic chain-of-custody for legal proceedings*
 
 Multi-format disk imaging (E01/RAW/DD), block-level cloning, RAM capture, SHA-256/MD5/SHA-1 hash verification — remote NAS/SAN acquisition for enterprise-scale investigations.
