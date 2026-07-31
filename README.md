@@ -35,7 +35,7 @@ Domain expertise:
   └── Security Automation — evidence pipelines, triage automation, reporting
 ```
 
-**Production numbers:** `94% zero-day detection` &nbsp;|&nbsp; `70% analyst triage reduction` &nbsp;|&nbsp; `100K+ events/day` &nbsp;|&nbsp; `60% faster memory acquisition` &nbsp;|&nbsp; `40% endpoint overhead cut`
+**Production numbers:** &nbsp; `70% analyst triage reduction` &nbsp;|&nbsp; `100K+ events/day` &nbsp;|&nbsp; `60% faster memory acquisition` &nbsp;|&nbsp; `40% endpoint overhead cut`
 
 ---
 
