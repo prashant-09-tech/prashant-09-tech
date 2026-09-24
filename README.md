@@ -133,9 +133,6 @@ Domain expertise:
   └── System: loaded modules · services · scheduled tasks
       │
       ▼
- Multithreaded Acquisition Engine ──── 40% overhead reduction
-      │
-      ▼
  JSON Ingestion Pipeline ──── structured artifact normalization
       │
       ▼
@@ -173,15 +170,12 @@ Domain expertise:
       │
       ▼
  Ensemble Models
-  ├── Random Forest + Gradient Boosting → classification (94% accuracy)
   └── Isolation Forests → anomaly detection (unauthorized escalations)
       │
       ▼
  Output
   ├── Real-time threat scores per event
   ├── SHAP values → per-alert explainability
-  └── 70% analyst triage time reduction
-```
 
 **Stack:** `Python` `TensorFlow` `Scikit-learn` `SHAP` `Isolation Forests` `Gradient Boosting` `Detection Engineering` `Threat Intelligence` `Behavioral Analysis` `MITRE ATT&CK` `Anomaly Detection` `Forensic Dataset Engineering`
 
