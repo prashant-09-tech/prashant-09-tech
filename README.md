@@ -152,7 +152,7 @@ Domain expertise:
 
 **The problem:** Signature-based detection misses novel malware. Analyst-driven triage at 100K+ daily events is unsustainable. Security teams need detection that explains its own decisions.
 
-**The design:** An end-to-end forensic dataset engineering pipeline — from raw endpoint telemetry ingestion through feature extraction to stacked ensemble ML — achieving 94% zero-day detection accuracy with full SHAP explainability so analysts can trust and audit every alert.
+**The design:** An end-to-end forensic dataset engineering pipeline — from raw endpoint telemetry ingestion through feature extraction to stacked ensemble ML.
 
 ```
  Endpoint Telemetry (100K+ events/day)
